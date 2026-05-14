@@ -58,6 +58,7 @@ def get_region(message):
         markup.add("🇲🇩 Молдова", "🇨🇿 Чехия")
         markup.add("🇬🇧 Великобритания", "🇵🇹 Португалия")
         markup.add("🇳🇱 Нидерланды", "🇧🇪 Бельгия")
+        markup.add("🇺🇦 Украина")
 
     elif message.text == "🌏 СНГ":
         markup.add("🇷🇺 Россия", "🇧🇾 Беларусь")
